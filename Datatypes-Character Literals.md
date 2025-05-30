@@ -9,10 +9,6 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 ```
-
-Developed by:Mohanaprabha S
-Register no:212224040197
-
 print('T') 
 print('a')
 ```

@@ -16,7 +16,8 @@ To write a Python program to check whether the given number is **even** or **odd
 
 Developed by:Mohanaprabha S
 Register no:212224040197
-
+```
+```
 a=int (input ()) if 
 (a%2) ==0: 
 print("EVEN") 

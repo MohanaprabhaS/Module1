@@ -13,10 +13,6 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 ```
-
-Developed by:Mohanaprabha S
-Register no:212224040197
-
 a=int(input()) 
 b=int(input()) 
 x=complex(a,b) 

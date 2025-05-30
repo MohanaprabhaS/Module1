@@ -11,9 +11,6 @@ To write a Python program to read a string from the user and then print it.
 ## 🧾 Program
 ```
 
-Developed by:Mohanaprabha S
-Register no:212224040197
-
 men_stepped_on_the_moon=input()  
 print(men_stepped_on_the_moon)
 
